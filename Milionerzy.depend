@@ -1,0 +1,522 @@
+# depslib dependency file v1.0
+1585589453 source:d:\studia\ii\pp2 pro\milionerzy\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<time.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+
+1584879789 d:\studia\ii\pp2 pro\milionerzy\done.c
+
+1585572708 d:\studia\ii\pp2 pro\milionerzy\menu.c
+
+1585590936 d:\studia\ii\pp2 pro\milionerzy\game.c
+
+1585573582 d:\studia\ii\pp2 pro\milionerzy\start.c
+
+1585588642 d:\studia\ii\pp2 pro\milionerzy\correct.c
+
+1585575106 d:\studia\ii\pp2 pro\milionerzy\wrong.c
+
+1585582725 d:\studia\ii\pp2 pro\milionerzy\start_game.c
+
+1585590817 d:\studia\ii\pp2 pro\milionerzy\questions.c
+
+1585574033 source:d:\studia\ii\pp2 pro\milionerzy\questions.c
+
+1585583587 d:\studia\ii\pp2 pro\milionerzy\rand_answer.c
+
+1585588635 d:\studia\ii\pp2 pro\milionerzy\rand_questions.c
+
+1585582373 d:\studia\ii\pp2 pro\milionerzy\winer.c
+
+1588338079 source:d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+
+1588265302 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\done.c
+
+1588339333 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\start.c
+
+1588330522 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\menu.c
+
+1588333334 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\start_game.c
+
+1588332505 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\game.c
+
+1588331744 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\correct.c
+
+1588333214 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\wrong.c
+
+1585590817 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\questions.c
+
+1585583587 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\rand_answer.c
+
+1588085524 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\rand_questions.c
+
+1588329975 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\winer.c
+
+1588332526 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\win2.c
+
+1588332545 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\win7.c
+
+1588332073 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\telefon.c
+
+1588332224 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\pol.c
+
+1588332215 d:\dokumenty\studia\semestr 2\projekt\pp2.pro.1id12.chmielowiec.kozera.prajs\milionerzy\publicznosc.c
+
+1588338079 source:d:\studia ii semestr\projekt\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+
+1588265302 d:\studia ii semestr\projekt\milionerzy\done.c
+
+1588339333 d:\studia ii semestr\projekt\milionerzy\start.c
+
+1588330522 d:\studia ii semestr\projekt\milionerzy\menu.c
+
+1588333334 d:\studia ii semestr\projekt\milionerzy\start_game.c
+
+1588363585 d:\studia ii semestr\projekt\milionerzy\game.c
+
+1588331744 d:\studia ii semestr\projekt\milionerzy\correct.c
+
+1588333214 d:\studia ii semestr\projekt\milionerzy\wrong.c
+
+1588363095 d:\studia ii semestr\projekt\milionerzy\questions.c
+
+1585583587 d:\studia ii semestr\projekt\milionerzy\rand_answer.c
+
+1588085524 d:\studia ii semestr\projekt\milionerzy\rand_questions.c
+
+1588329975 d:\studia ii semestr\projekt\milionerzy\winer.c
+
+1588332526 d:\studia ii semestr\projekt\milionerzy\win2.c
+
+1588332545 d:\studia ii semestr\projekt\milionerzy\win7.c
+
+1588332073 d:\studia ii semestr\projekt\milionerzy\telefon.c
+
+1588332224 d:\studia ii semestr\projekt\milionerzy\pol.c
+
+1588332215 d:\studia ii semestr\projekt\milionerzy\publicznosc.c
+
+1588364824 source:c:\users\adikx\desktop\projekt\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+
+1588265304 c:\users\adikx\desktop\projekt\milionerzy\done.c
+
+1588370048 c:\users\adikx\desktop\projekt\milionerzy\start.c
+
+1588330524 c:\users\adikx\desktop\projekt\milionerzy\menu.c
+
+1588333336 c:\users\adikx\desktop\projekt\milionerzy\start_game.c
+
+1588370839 c:\users\adikx\desktop\projekt\milionerzy\game.c
+
+1588331746 c:\users\adikx\desktop\projekt\milionerzy\correct.c
+
+1588333216 c:\users\adikx\desktop\projekt\milionerzy\wrong.c
+
+1588363096 c:\users\adikx\desktop\projekt\milionerzy\questions.c
+
+1585583588 c:\users\adikx\desktop\projekt\milionerzy\rand_answer.c
+
+1588368671 c:\users\adikx\desktop\projekt\milionerzy\rand_questions.c
+
+1588329976 c:\users\adikx\desktop\projekt\milionerzy\winer.c
+
+1588332528 c:\users\adikx\desktop\projekt\milionerzy\win2.c
+
+1588332546 c:\users\adikx\desktop\projekt\milionerzy\win7.c
+
+1588332074 c:\users\adikx\desktop\projekt\milionerzy\telefon.c
+
+1588332226 c:\users\adikx\desktop\projekt\milionerzy\pol.c
+
+1588332216 c:\users\adikx\desktop\projekt\milionerzy\publicznosc.c
+
+1588364824 source:c:\users\adikx\desktop\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+
+1588265304 c:\users\adikx\desktop\milionerzy\done.c
+
+1588370048 c:\users\adikx\desktop\milionerzy\start.c
+
+1588330524 c:\users\adikx\desktop\milionerzy\menu.c
+
+1588333336 c:\users\adikx\desktop\milionerzy\start_game.c
+
+1588370839 c:\users\adikx\desktop\milionerzy\game.c
+
+1588331746 c:\users\adikx\desktop\milionerzy\correct.c
+
+1588333216 c:\users\adikx\desktop\milionerzy\wrong.c
+
+1588363096 c:\users\adikx\desktop\milionerzy\questions.c
+
+1585583588 c:\users\adikx\desktop\milionerzy\rand_answer.c
+
+1588368671 c:\users\adikx\desktop\milionerzy\rand_questions.c
+
+1588329976 c:\users\adikx\desktop\milionerzy\winer.c
+
+1588332528 c:\users\adikx\desktop\milionerzy\win2.c
+
+1588332546 c:\users\adikx\desktop\milionerzy\win7.c
+
+1588332074 c:\users\adikx\desktop\milionerzy\telefon.c
+
+1588332226 c:\users\adikx\desktop\milionerzy\pol.c
+
+1588332216 c:\users\adikx\desktop\milionerzy\publicznosc.c
+
+1590599597 source:d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_image.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+	"gracz.c"
+	"ranking.c"
+	"zapis.c"
+	"odczyt.c"
+
+1588265304 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\done.c
+
+1590599758 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\start.c
+
+1590597313 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\menu.c
+
+1590597338 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\start_game.c
+
+1590599558 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\game.c
+
+1590597295 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\correct.c
+
+1590597368 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\wrong.c
+
+1588363096 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\questions.c
+
+1585583588 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\rand_answer.c
+
+1588368672 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\rand_questions.c
+
+1590597361 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\winer.c
+
+1590597348 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\win2.c
+
+1590597356 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\win7.c
+
+1590597342 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\telefon.c
+
+1590597319 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\pol.c
+
+1590597323 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\publicznosc.c
+
+1590597309 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\gracz.c
+
+1590597514 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\ranking.c
+
+1590502357 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\zapis.c
+
+1590502332 d:\dokumenty\studia\semestr 2\projekt\programowaie\milionerzy\odczyt.c
+
+1590686545 source:c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_image.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+	"gracz.c"
+	"ranking.c"
+	"zapis.c"
+	"odczyt.c"
+	"list.c"
+
+1588265304 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\done.c
+
+1590611095 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\start.c
+
+1590683190 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\menu.c
+
+1590683752 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\start_game.c
+
+1590690226 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\game.c
+
+1590683002 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\correct.c
+
+1590686527 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\wrong.c
+
+1588363096 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\questions.c
+
+1585583588 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\rand_answer.c
+
+1588368672 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\rand_questions.c
+
+1590683965 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\winer.c
+
+1590683943 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\win2.c
+
+1590683953 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\win7.c
+
+1590683272 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\telefon.c
+
+1590683205 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\pol.c
+
+1590683218 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\publicznosc.c
+
+1590690293 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\gracz.c
+
+1590684577 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\ranking.c
+
+1590683736 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\zapis.c
+
+1590608615 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\odczyt.c
+
+1590690021 c:\users\marek\desktop\milionerzy v0.9.1\milionerzy\list.c
+
+1590690402 source:d:\studia ii semestr\milionerzy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_image.h>
+	"done.c"
+	"start.c"
+	"menu.c"
+	"start_game.c"
+	"game.c"
+	"correct.c"
+	"wrong.c"
+	"questions.c"
+	"rand_answer.c"
+	"rand_questions.c"
+	"winer.c"
+	"win2.c"
+	"win7.c"
+	"telefon.c"
+	"pol.c"
+	"publicznosc.c"
+	"gracz.c"
+	"ranking.c"
+	"zapis.c"
+	"odczyt.c"
+	"list.c"
+
+1588265304 d:\studia ii semestr\milionerzy\done.c
+
+1590611095 d:\studia ii semestr\milionerzy\start.c
+
+1590683190 d:\studia ii semestr\milionerzy\menu.c
+
+1590683752 d:\studia ii semestr\milionerzy\start_game.c
+
+1590690226 d:\studia ii semestr\milionerzy\game.c
+
+1590683002 d:\studia ii semestr\milionerzy\correct.c
+
+1590686527 d:\studia ii semestr\milionerzy\wrong.c
+
+1590788094 d:\studia ii semestr\milionerzy\questions.c
+
+1590788058 d:\studia ii semestr\milionerzy\rand_answer.c
+
+1590788072 d:\studia ii semestr\milionerzy\rand_questions.c
+
+1590683965 d:\studia ii semestr\milionerzy\winer.c
+
+1590683943 d:\studia ii semestr\milionerzy\win2.c
+
+1590683953 d:\studia ii semestr\milionerzy\win7.c
+
+1590683272 d:\studia ii semestr\milionerzy\telefon.c
+
+1590683205 d:\studia ii semestr\milionerzy\pol.c
+
+1590683218 d:\studia ii semestr\milionerzy\publicznosc.c
+
+1590690293 d:\studia ii semestr\milionerzy\gracz.c
+
+1590684577 d:\studia ii semestr\milionerzy\ranking.c
+
+1590683736 d:\studia ii semestr\milionerzy\zapis.c
+
+1590608615 d:\studia ii semestr\milionerzy\odczyt.c
+
+1590690021 d:\studia ii semestr\milionerzy\list.c
+

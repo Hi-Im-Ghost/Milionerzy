@@ -1,0 +1,85 @@
+\hypertarget{list_8c}{}\doxysection{list.\+c File Reference}
+\label{list_8c}\index{list.c@{list.c}}
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\doxysubsection*{Data Structures}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$ \mbox{\hyperlink{list_8c_a82f48669b159bb65d08be5e59beec300}{create\+\_\+list}} (int data, char nick\mbox{[}$\,$\mbox{]})
+\item 
+struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$ \mbox{\hyperlink{list_8c_a03f3265c6445ae1c393c337a323e533c}{find\+\_\+max\+\_\+node}} (struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$node)
+\item 
+struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$ \mbox{\hyperlink{list_8c_aa2acd36146a335ef5049fdcb98a0d11f}{find\+\_\+next\+\_\+node}} (struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$node, int data)
+\item 
+void \mbox{\hyperlink{list_8c_a0db029a2f47d11dea0f6eed1cfada1b2}{insert\+\_\+node}} (struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$node, int data, char nick\mbox{[}$\,$\mbox{]}, int a, int b, int c)
+\item 
+void \mbox{\hyperlink{list_8c_abbc09b31a9ae8e6e48e4f08ac02e4023}{print\+\_\+list}} (struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$node, A\+L\+L\+E\+G\+R\+O\+\_\+\+F\+O\+NT $\ast$font, A\+L\+L\+E\+G\+R\+O\+\_\+\+F\+O\+NT $\ast$font2, int width\+\_\+monitor, int height\+\_\+monitor)
+\item 
+int \mbox{\hyperlink{list_8c_adb57fd3c5803cd1f7fb3e020ef0a232b}{number\+\_\+of\+\_\+element}} (struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$node)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{list_8c_a82f48669b159bb65d08be5e59beec300}\label{list_8c_a82f48669b159bb65d08be5e59beec300}} 
+\index{list.c@{list.c}!create\_list@{create\_list}}
+\index{create\_list@{create\_list}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{create\_list()}{create\_list()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}}$\ast$ create\+\_\+list (\begin{DoxyParamCaption}\item[{int}]{data,  }\item[{char}]{nick\mbox{[}$\,$\mbox{]} }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+% FIG 1
+\mbox{\Hypertarget{list_8c_a03f3265c6445ae1c393c337a323e533c}\label{list_8c_a03f3265c6445ae1c393c337a323e533c}} 
+\index{list.c@{list.c}!find\_max\_node@{find\_max\_node}}
+\index{find\_max\_node@{find\_max\_node}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{find\_max\_node()}{find\_max\_node()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}}$\ast$ find\+\_\+max\+\_\+node (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$}]{node }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 2
+Here is the caller graph for this function\+:
+% FIG 3
+\mbox{\Hypertarget{list_8c_aa2acd36146a335ef5049fdcb98a0d11f}\label{list_8c_aa2acd36146a335ef5049fdcb98a0d11f}} 
+\index{list.c@{list.c}!find\_next\_node@{find\_next\_node}}
+\index{find\_next\_node@{find\_next\_node}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{find\_next\_node()}{find\_next\_node()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}}$\ast$ find\+\_\+next\+\_\+node (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$}]{node,  }\item[{int}]{data }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 4
+Here is the caller graph for this function\+:
+% FIG 5
+\mbox{\Hypertarget{list_8c_a0db029a2f47d11dea0f6eed1cfada1b2}\label{list_8c_a0db029a2f47d11dea0f6eed1cfada1b2}} 
+\index{list.c@{list.c}!insert\_node@{insert\_node}}
+\index{insert\_node@{insert\_node}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{insert\_node()}{insert\_node()}}
+{\footnotesize\ttfamily void insert\+\_\+node (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$}]{node,  }\item[{int}]{data,  }\item[{char}]{nick\mbox{[}$\,$\mbox{]},  }\item[{int}]{a,  }\item[{int}]{b,  }\item[{int}]{c }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 6
+Here is the caller graph for this function\+:
+% FIG 7
+\mbox{\Hypertarget{list_8c_adb57fd3c5803cd1f7fb3e020ef0a232b}\label{list_8c_adb57fd3c5803cd1f7fb3e020ef0a232b}} 
+\index{list.c@{list.c}!number\_of\_element@{number\_of\_element}}
+\index{number\_of\_element@{number\_of\_element}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{number\_of\_element()}{number\_of\_element()}}
+{\footnotesize\ttfamily int number\+\_\+of\+\_\+element (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$}]{node }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 8
+Here is the caller graph for this function\+:
+% FIG 9
+\mbox{\Hypertarget{list_8c_abbc09b31a9ae8e6e48e4f08ac02e4023}\label{list_8c_abbc09b31a9ae8e6e48e4f08ac02e4023}} 
+\index{list.c@{list.c}!print\_list@{print\_list}}
+\index{print\_list@{print\_list}!list.c@{list.c}}
+\doxysubsubsection{\texorpdfstring{print\_list()}{print\_list()}}
+{\footnotesize\ttfamily void print\+\_\+list (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structdll__node}{dll\+\_\+node}} $\ast$}]{node,  }\item[{A\+L\+L\+E\+G\+R\+O\+\_\+\+F\+O\+NT $\ast$}]{font,  }\item[{A\+L\+L\+E\+G\+R\+O\+\_\+\+F\+O\+NT $\ast$}]{font2,  }\item[{int}]{width\+\_\+monitor,  }\item[{int}]{height\+\_\+monitor }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 10
+Here is the caller graph for this function\+:
+% FIG 11
